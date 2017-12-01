@@ -1,0 +1,113 @@
+È¸»ç ÀÌ¸ŞÀÏÀº Á÷Á¢ È¸»ç¿¡ ¿äÃ» ÇØ¾ßÇÕ´Ï´Ù.
+svn ¾ÆÀÌµğ ºñ¹ø ¶ÇÇÑ ¼­¹ö°³¹ßÀÚ ¿¡°Ô ¿äÃ»ÇØ¾ß µË´Ï´Ù.
+
+ Á¨Å°½º http://localhost:8080/
+dev001 1111
+//-------------Á¨Å°½º ºôµå---------------------
+1)½ÃÅ°´Âµ¥·Î Æä½º¿öµå ÀÔ·Â
+2)ms ºôµå ¼±ÅÃ ÀÎ½ºÅç
+3)ÇÊÅÍ postbuild
+4)hudsan pos build task ->¼³Ä¡C:\Windows\Microsoft.NET\Framework\v4.0.30319 ÀÌ·±½ÄÀ¸·Î ´å³İÇÁ·¹ÀÓ¿öÅ© ÀÌ¸§
+	ÀÌ¸§Àº º¸Åë .net v4.0.30319 ÀÌ·±½ÄÀ¸·Î ¾¸
+
+
+4)  	Path to MSBuild <- ¿©±â¿¡´Â 
+
+/p:Configuration="Debug" /t:Build
+ºôµå¼Ó¼º SVNÀº ÇöÀç ¸Â´Â°É·Î ¼±ÅÃ
+
+
+
+Patch
+Gunz_Patch_Main <- ÀÌ°Å µğÇÃ·ÎÀÌ¶û ÆĞÄ¡ ³Ö´Â°÷¿¡¼­ ÇöÀç Ç®Å¬¶ó ÀÌ¸§À¸·Î ¹Ù²ãÁØ´Ù
+¾ÏÈ£È­ Ç®°í ¸¶Áö¸·¿¡ ´Ù½Ã °É¾îÁà¾ß µÊ ¤»¤§¤»¤§
+±×´ÙÀ½ s3 ¹Ù²Ù°í µ¿±âÈ­µµ °É¾îÁÖ¾î¾ß ÇÕ´Ï´Ù °³…?
+--------------------¸ÇÆ¼½º ÁÖ¼Ò ¹× µîµî------------------------=
+¸ÇÆ¼½º http://mantisbt.masangsoft.com/my_view_page.php
+jwsong / thdwjddn15 
+ 
+ 
+ ·Ñ¹é¹ı
+Old µé¾î°¡¼­ CheckSum , PatchList µÎ°³¸¦ ·Ñ¹é  (BackUp¿¡ ÀÖÀ½)
+Old¿¡ ÀÖ´Â ¸ğµç ÆÄÀÏÀ» ½ÇÇàÆÄÀÏ ½ÇÇàÆÄÀÏÀ» Ä¿·±Æ® Æú´õ·Î ºÙ¾î³Ö´Â´Ù UIµµ ÀÖÀ¸¸é ±×´ë·Î ºÙ¿©¾ßµÊ
+Rtp
+
+administrator/nativex123$%^
+
+³» IP µÚ¿¡ 162 ºÙÀÌ±â ¾Õ¿¡ \\ µÎ°³ ºÙÀÌ´Â°Ç ³×Æ®¿öÅ©¶ó´Â ¶æ
+
+
+http://masang.signin.aws.amazon.com/¾Æ¸¶Á¸ ¸µÅ©
+
+¾Æ¸¶Á¸ ºñ¹Ğ¹øÈ£ ¼ÛÁ¤¿ì ¤Ì<-´ë¹®ÀÚ 15Æ¯¼ö¹®ÀÚ 25¼ıÀÚ (¼ÛÁ¤¿ì1525) 
+
+masangsoft_NX/JZ2s2v5J            //Xigncode ¾÷µ¥ÀÌÆ® ¹æ¹ı ÃÖÁ¾ È®ÀÎ¹æ¹ıÀº ¿À¸¥ÂÊ ÇÏ´Ü ¹öÀüÀ» È®ÀÎÇÑ´Ù.
+masangsoft_gunz/ºñ¹Ğ¹øÈ£ (´ë¼Ò¹®ÀÚ ±¸ºĞ)8r195i50 //°ÇÁî
+nqgames_mv/ePFX2O8r    RA_cjuNctNtD//¶óÀÌ¼±½ºÄÚµå
+https://www.xigncode.net/
+
+Z:\CodeSignTool\tools ¾Ö´Ï¼­Æ® Å° ÀÖ´Â°÷
+
+
+http://www.google.com/a/masangsoft.com
+->
+jwsong@masangsoft.com ±¸±Û
+¼ÛÁ¤¿ì15
+
+
+//https://testnx.masangsoft.com/ Å×½ºÆ®¼­¹ö
+//                                                dev001   // 1111 
+//
+
+
+http://nxdev.masangsoft.com//¼­¹ö
+
+¾Û ¿¬µ¿!!! jwsong@masangsoft.com //	thdwjddN!%25
+
+
+C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\Include
+$(DXSDK_DIR)Include
+
+
+
+
+
+--´É·ÂÀÚx Ãß°¡Á¾¼®¼º
+
+kernel32.lib;user32.lib;gdi32.lib;winspool.lib;comdlg32.lib;advapi32.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;odbc32.lib;odbccp32.lib;%(AdditionalDependencies)
+
+
+svn ºñ¹Ğ¹øÈ£ 152515
+
+svn ¸µÅ©ÁÖ¼Ò
+http://svn.masangsoft.com:9090/svn/NativeX_Live_Kor/NativeX_Dev
+
+
+
+http://svn.masangsoft.com:9090/svn/NativeX_Live_Kor/Resource/Dev
+
+//-------------------------- ½ºÄÉÀÏÆû UI¹ö±× Àâ±â
+File - publsh setting  ÀÌ°Å´Ù ·Î±×Âï±â ÀÌ°É·Î UI ¹ö±×¸¦ Àâ¾Æ¾ß ÇÕ´Ï´Ù.
+Omit trace action
+
+
+//---------------------------
+
+¹öÀü ¹Ù²Ù±â 
+¸ŞÀÏ º¸³»±â.
+¼Ò¼Ó ÆÄÆ® ÀÌ¸§  ³×ÀÌÆ®¿Â ¾ÆÀÌµğ ÀÎ»ç¸». 
+masang@masangsoft.com ¹ß¼Û 
+
+
+//-----------------------
+¶ó±×ÇÏÀÓ °³ÀÎ ¼­¹ö ¶ç¿ì´Â¹ı
+
+result\server\kor\ndev_win\config µé¾î°¡¼­
+config.json 49.254.157.167 <- ³» ¾ÆÀÌÇÇ·Î ¹Ù²Û´Ù
+packet_sniffing.json  <- ³» ¾ÆÀÌÇÇ·Î ¹Ù²Û´Ù
+
+
+\kor\ndev_win\Laghaim <- Á¸ ´õ ¶ç¿ì´Â ¹ı
+¼Ó¼º \ndev_win\Laghaim\Laghaim.exe->¼Ó¼º 66 0 660 z ÀÌ·±½ÄÀ¸·Î ÀÛ¾÷ ÇØÁà¾ßµÊ Start.batº¸¸é¼­
+
+
